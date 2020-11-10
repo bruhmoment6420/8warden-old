@@ -213,4 +213,4 @@ async def incogdm(ctx, member: discord.Member, *, content):
 
 
 # client id 
-client.run('NzY2OTUxMTA2MjYwNjMxNTYz.X4q04A.NyX6NzQiGFMiZY2gpSNpoV5qRbw')
+client.run('TOKEN HERE')
